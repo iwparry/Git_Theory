@@ -9,7 +9,7 @@ Git is a distributed version control system that tracks changes in any set of co
 Git is used because it is a free, open-source and is a **distributed** version control system, this means that it has no single points of failure because developers clone repositories on their local workstations, creating multiple copies of the project being worked on with a full history of commits which makes git fast compared to other VCs. One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge.
 
 ## Why is Git used in DevOps?
-
+Git is an essential part of DevOps as it enables non-linear workflows, is robust, and greatly supports collaboration among developers. This in turn assures the development of first-quality software
 
 ## What is GitHub?
 GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them. 
@@ -35,3 +35,5 @@ https://www.atlassian.com/git/tutorials/why-git#:~:text=One%20of%20the%20biggest
 https://devmountain.com/blog/git-vs-github-whats-the-difference/#:~:text=GitHub%E2%80%A6-,what's%20the%20difference%3F,help%20you%20better%20manage%20them.
 
 https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them
+
+https://www.besanttechnologies.com/role-of-git-in-devops#:~:text=Git%20is%20an%20essential%20part,C%20doing%20the%20same%20project.
